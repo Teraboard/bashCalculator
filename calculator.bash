@@ -1,5 +1,5 @@
 # !/bin/bash
-# Created by Wesley Joseph Axline
+# Created by Wesley Axline
 if [[ $# != 3 ]]; then
   echo "please make sure there is 3 arguements"
 elif [[ $2 =~ ^[+-]?[0-9]+$ && $3 =~ ^[+-]?[0-9]+$ ]]
